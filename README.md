@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mudassar-MLE&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mudassar-MLE&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassar-MLE&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudassar-MLE&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mudassar-MLE&theme=cobalt2&no-frame=false&no-bg=false&margin-w=4)
