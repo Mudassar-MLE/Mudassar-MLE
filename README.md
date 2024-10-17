@@ -1,5 +1,18 @@
 # 💫 About Me:
-<br>🔭 I’m currently working at [Upstart Commerce](https://upstartcommerce.com/) as an ML Engineer, developing AI-based microservices for eCommerce.<br><br>👯 I’m looking to collaborate on: NLP, machine learning, and computer vision projects.<br><br>🤝 I’m looking for help with: nlp, MLOps, large language models (LLMs), and advanced deep learning techniques.<br><br>🌱 I’m currently learning: OpenSearch, MLOps and advanced computer vision techniques.<br><br>💬 Ask me about: AI chatbots, Data Analysis, NLP, LLM, and data warehousing.<br><br>⚡ Fun fact: I love traveling, watching sports & movies, and playing computer games.
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+    <div style="flex: 0 0 30%;">
+    <img align="right" src="readme.png" alt="My Tech Setup" style="width: 20%; object-fit: cover;">
+  </div>
+  <div style="flex: 1; margin-right: 20px;">
+    <p>🔭 I’m currently working at <a href="https://upstartcommerce.com/">Upstart Commerce</a> as an ML Engineer, developing AI-based microservices for eCommerce.</p>
+    <p>👯 I’m looking to collaborate on: NLP, machine learning, and computer vision projects.</p>
+    <p>🤝 I’m looking for help with: NLP, MLOps, large language models (LLMs), and advanced deep learning techniques.</p>
+    <p>🌱 I’m currently learning: OpenSearch, MLOps, and advanced computer vision techniques.</p>
+    <p>💬 Ask me about: AI chatbots, Data Analysis, NLP, LLM, and data warehousing.</p>
+    <p>⚡ Fun fact: I love traveling, watching sports & movies, and playing computer games.</p>
+  </div>
+</div>
+
 
 
 
