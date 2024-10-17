@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center; justify-content: flex-end;">
     <div style="flex: 0 0 30%;">
-    <img align="right" src="readme.png" alt="My Tech Setup" style="width: 20%; object-fit: cover;">
+    <img align="right" src="readme.png" alt="My Tech Setup" style="width: 15%; object-fit: cover;">
   </div>
   <div style="flex: 1; margin-right: 20px;">
     <p>🔭 I’m currently working at <a href="https://upstartcommerce.com/">Upstart Commerce</a> as an ML Engineer, developing AI-based microservices for eCommerce.</p>
