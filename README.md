@@ -1,8 +1,8 @@
 # 💫 About Me:
 <div style="display: flex; align-items: center; justify-content: flex-end;">
-    <div style="flex: 0 0 30%;">
+<!--     <div style="flex: 0 0 30%;">
     <img align="right" src="readme.png" alt="My Tech Setup" style="width: 12%; object-fit: cover;">
-  </div>
+  </div> -->
   <div style="flex: 1; margin-right: 20px;">
     <p>🔭 I’m currently working at <a href="https://upstartcommerce.com/">Upstart Commerce</a> as an ML Engineer, developing AI-based microservices for eCommerce.</p>
     <p>👯 I’m looking to collaborate on: NLP, machine learning, and computer vision projects.</p>
